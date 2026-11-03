@@ -1,0 +1,11 @@
+{
+  "name": "crowdstop",
+  "owner": { "name": "crowdstop", "url": "https://crowdstop.com" },
+  "plugins": [
+    {
+      "name": "crowdstop-founder-team",
+      "source": "./",
+      "description": "Eleven free Claude skills that test a business before you launch it, by crowdstop."
+    }
+  ]
+}

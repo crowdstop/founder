@@ -1,0 +1,9 @@
+{
+  "name": "crowdstop-founder-team",
+  "description": "Eleven free Claude skills by crowdstop that test a business before you launch it: a board, a competitor scout, a panel of 100 simulated buyers, pricing, offer, money, marketing, brand, operations, launch and a business plan with a verdict.",
+  "version": "1.0.0",
+  "author": { "name": "crowdstop", "url": "https://crowdstop.com" },
+  "homepage": "https://crowdstop.com",
+  "license": "MIT",
+  "keywords": ["claude-skills", "startup", "founder", "business-plan", "pricing", "launch", "branding"]
+}

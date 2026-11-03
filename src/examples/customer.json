@@ -1,0 +1,14 @@
+{
+  "_about": "An invented example for Kiln Room. Describe your own buyers; the panel is only as good as this file.",
+  "segment": "Adults in Leeds looking for a hands-on hobby or a night out that isn't the pub",
+  "location": "Leeds and nearby towns",
+  "age_range": [24, 55],
+  "varies_by": {
+    "income": ["tight budget", "comfortable", "well off"],
+    "situation": ["single, social", "couple looking for date ideas", "parent wanting time out", "remote worker, a bit isolated"],
+    "how_often_they_do_hobbies": ["rarely", "a few times a year", "every week"],
+    "what_they_do_now": ["pub or restaurant", "gym or classes", "nothing regular", "another craft class"],
+    "how_they_decide": ["price first", "reviews first", "friend's recommendation", "impulse"],
+    "likely_doubt": ["I'll be bad at it", "too expensive for one evening", "can't commit to a set time", "is it actually fun"]
+  }
+}

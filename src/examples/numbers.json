@@ -1,0 +1,33 @@
+{
+  "_about": "An invented example: Kiln Room, beginner pottery classes in Leeds. Replace every value with your own. Mark each value's basis in 'basis': quote or estimate.",
+  "business": "Kiln Room",
+  "currency": "GBP",
+  "unit": "class place",
+  "price_per_unit": 45,
+  "costs_per_unit": {
+    "clay and glaze": 4.5,
+    "firing (electricity)": 2,
+    "card fees": 0.9
+  },
+  "fixed_costs_per_month": {
+    "studio rent": 950,
+    "insurance": 45,
+    "booking software": 39,
+    "founder pay": 1200
+  },
+  "startup_costs": {
+    "kiln": 2600,
+    "wheels and tools": 1900,
+    "studio fit-out": 1200,
+    "brand and website": 389
+  },
+  "units_per_month_at_full_speed": 160,
+  "capacity_units_per_month": 240,
+  "ramp": [0.3, 0.5, 0.7, 0.85],
+  "basis": {
+    "price_per_unit": "estimate",
+    "studio rent": "quote",
+    "kiln": "quote",
+    "units_per_month_at_full_speed": "estimate"
+  }
+}
